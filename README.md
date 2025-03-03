@@ -39,10 +39,6 @@ When enabled, the value is set to 1024 (decimal).
 - Changes take effect immediately in supported games
 - Created for gamers who want to quickly toggle the DLSS indicator without interrupting gameplay
 
-## Download
-
-- [DlssIndicatorToggle.exe](link-will-be-added-by-github) (32KB)
-
 ## License
 
 MIT License
