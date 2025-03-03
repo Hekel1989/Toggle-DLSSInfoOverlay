@@ -38,7 +38,7 @@ When enabled, the value is set to 1024 (decimal).
 ## Notes
 
 - This tool requires administrator privileges to modify registry settings
-- Changes take effect immediately in supported games (it will probably need a render reload though before it appears)
+- Changes take effect immediately in supported games (it will probably need a render reload before it appears though)
 
 ## License
 
