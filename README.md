@@ -4,7 +4,7 @@ A simple utility to toggle the NVIDIA DLSS indicator overlay on and off with a s
 
 ## Overview
 
-This tool allows you to quickly toggle the DLSS indicator overlay while gaming without having to manually edit the Windows registry. The DLSS indicator shows which DLSS mode is currently active in supported games.
+This tool allows you to quickly toggle the DLSS indicator overlay while gaming without having to manually edit the Windows registry. The DLSS indicator shows which DLSS mode is currently active in supported games, and which resolution is DLSS upscaling from and to.
 
 ## Features
 
